@@ -1,0 +1,25 @@
+{
+  "name": "trellnix",
+  "version": "1.0.0",
+  "description": "Trello built with Pheonix and React",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cionescu/Trellnix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cionescu/Trellnix/issues"
+  },
+  "homepage": "https://github.com/cionescu/Trellnix#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
