@@ -13,6 +13,8 @@ defmodule Trellnix.User do
   @required_fields ~w(first_name last_name email encrypted_password)
   @optional_fields ~w()
 
+  @derive {Poison.Encoder, only: [:id, :first_name, :last_name, :email]}
+
   @doc """
   Creates a changeset based on the `model` and `params`.
 
