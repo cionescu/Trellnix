@@ -35,7 +35,7 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :trellnix, Trellnix.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "",
+  username: "postgres",
   password: "",
   database: "trellnix_dev",
   hostname: "localhost",
