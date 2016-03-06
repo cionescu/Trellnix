@@ -1,6 +1,6 @@
 # Trellnix
 
-> Trello built with Pheonix and React
+> Trello built with Phoenix and React
 
 To start your Phoenix app:
 
@@ -14,5 +14,5 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 ## Learn more
 
-* [Trello with Pheonix and React](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-2)
+* [Trello with Phoenix and React](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-2)
 
