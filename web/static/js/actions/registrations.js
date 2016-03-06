@@ -1,6 +1,6 @@
-import { pushPath }  from 'redux-simple-router';
-import Constants     from '../constants';
-import { httpPost }  from '../utils';
+import { routeReducer } from 'react-router-redux';
+import Constants        from '../constants';
+import { httpPost }     from '../utils';
 
 const Actions = {};
 
