@@ -32,5 +32,5 @@ config :guardian, Guardian,
   issuer: "Trellnix",
   ttl: { 3, :days },
   verify_issuer: true,
-  secret_key: <your guardian secret key>,
+  secret_key: "blahblah",
   serializer: Trellnix.GuardianSerializer
